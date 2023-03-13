@@ -1,0 +1,18 @@
+.imagenes {
+    line-height: 150px;
+}
+
+.container {
+    text-align: center;
+    background-color: #546e7a;
+    height: 200px;
+    
+}
+
+.fb, .twt, .ig {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+
+

@@ -1,0 +1,20 @@
+.container1 {
+    margin: 0 auto;
+    background-color: #eee;
+    width: 90%;
+    border-radius: 20px;
+
+}
+
+.img {
+    padding: 10px;
+    text-align: center;
+}
+
+ul{
+    padding: 10px;
+    font-size: 35px;
+    list-style: none;
+    text-align: center;
+    color: gray;
+}
